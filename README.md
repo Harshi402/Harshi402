@@ -6,16 +6,16 @@
 
 
 ## 🛠️ Tech Stack
-### 💻 Languages  
+# 💻 Languages  
 Java • Python • C# • SQL
-### ☁️ Cloud & DevOps  
+#☁️ Cloud & DevOps  
 AWS (EC2, ECS, Lambda, IAM, S3, CloudWatch, SNS)  
 Terraform • Docker
-### 🧠 Backend & Frameworks  
+# 🧠 Backend & Frameworks  
 Spring Boot • Spring Cloud • Spring AI • REST APIs
-### 🗄️ Databases  
+# 🗄️ Databases  
 PostgreSQL • MySQL • MongoDB
-### 🔧 Tools  
+# 🔧 Tools  
 Git • Linux • VS Code • IntelliJ IDEA
 
 ## 📫 Connect with Me
